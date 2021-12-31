@@ -20,6 +20,7 @@
 		BBD8C23B277DF15D00EC3BE3 /* FruitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBD8C23A277DF15D00EC3BE3 /* FruitDetailView.swift */; };
 		BBD8C23D277DF9A900EC3BE3 /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBD8C23C277DF9A900EC3BE3 /* FruitHeaderView.swift */; };
 		BBD8C23F277DFB4500EC3BE3 /* LinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBD8C23E277DFB4500EC3BE3 /* LinkView.swift */; };
+		BBD8C241277F51AF00EC3BE3 /* FruitNutrientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBD8C240277F51AF00EC3BE3 /* FruitNutrientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		BBD8C23A277DF15D00EC3BE3 /* FruitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitDetailView.swift; sourceTree = "<group>"; };
 		BBD8C23C277DF9A900EC3BE3 /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
 		BBD8C23E277DFB4500EC3BE3 /* LinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkView.swift; sourceTree = "<group>"; };
+		BBD8C240277F51AF00EC3BE3 /* FruitNutrientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				BBD8C238277DEDCB00EC3BE3 /* FruitRowView.swift */,
 				BBD8C23C277DF9A900EC3BE3 /* FruitHeaderView.swift */,
 				BBD8C23E277DFB4500EC3BE3 /* LinkView.swift */,
+				BBD8C240277F51AF00EC3BE3 /* FruitNutrientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 				BBD8C230277DCC6B00EC3BE3 /* OnboardingView.swift in Sources */,
 				BBD8C23D277DF9A900EC3BE3 /* FruitHeaderView.swift in Sources */,
 				BBD8C23B277DF15D00EC3BE3 /* FruitDetailView.swift in Sources */,
+				BBD8C241277F51AF00EC3BE3 /* FruitNutrientView.swift in Sources */,
 				BBD8C22E277DC96B00EC3BE3 /* StartButtonView.swift in Sources */,
 				BBD8C23F277DFB4500EC3BE3 /* LinkView.swift in Sources */,
 				BBD8C232277DE8CB00EC3BE3 /* FruitModel.swift in Sources */,

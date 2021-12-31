@@ -17,7 +17,8 @@ struct ContentView: View {
               .padding(.vertical, 4)
           }
         }
-      }.navigationTitle(Text("Fruits"))
+      }
+      .navigationTitle(Text("Fruits"))
     }
   }
 }
